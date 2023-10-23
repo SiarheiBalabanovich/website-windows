@@ -1,2 +1,9 @@
 # website-windows
-This project used: HTML, SSS, Javascript
+This project used:
+
+JavaScript (53.8%)
+HTML (22.4%)
+CSS (17.4%)
+SCSS (3.3%)
+Less (3.0%)
+Ruby (0.1%)
