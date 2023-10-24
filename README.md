@@ -1,4 +1,7 @@
 # website-windows
+
+The website for a windows and fittings company - OknaWarszawa.
+
 This project used:
 
 JavaScript (53.8%),
