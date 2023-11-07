@@ -18,5 +18,5 @@ Countdown Timer: A countdown timer displays the remaining time until the end of 
 
 Location Section with Map and Contact Details: The project features a section displaying the company's location on a map, including operating hours and contact information.
 
-# Technologies Used
+### Technologies Used
 The project incorporates the following technologies: JavaScript (53.8%), HTML (22.4%), CSS (17.4%), SCSS (3.3%), Less (3.0%), Ruby (0.1%).
