@@ -2,10 +2,10 @@
 
 # https://siarheibalabanovich.github.io/website-windows/dist/
 
-# Project Description
+### Project Description
 This project features a comprehensive user interface with multiple interactive elements aimed at enhancing user engagement and ease of access. It includes a feedback form, material selection tabs, and a calculator for estimating material and service costs. Additionally, the project incorporates tabs showcasing hardware details and pricing information. A gallery of work examples is also included, allowing users to click and enlarge images for a closer view. A countdown timer is implemented, displaying the remaining time until the end of the discount promotion. Adjacent to the timer is another feedback form. The project also includes a section displaying the company's location on a map, along with operating hours and contact information.
 
-# Key Features
+### Key Features
 Feedback Form: Users can provide inquiries through the implemented form.
 
 Material Selection Tabs and Cost Calculator: The project includes interactive tabs for selecting materials and a calculator for estimating costs.
